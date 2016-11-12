@@ -5,9 +5,8 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="68718133272891"
-    token="3667242015458890218"
-    verifier="MANIFEST_FILE_CHANGE" >
+    timestamp="70986880896103"
+    token="3667242015458890218" >
 
     <task
         name="javac"
@@ -22,10 +21,6 @@
         name="verifier"
         duration="0" />
 
-    <artifact
-        location="C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
-
     <build
         timestamp="68718133272891"
         verifier="MANIFEST_FILE_CHANGE" >
@@ -33,5 +28,20 @@
             location="C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
+    <build
+        timestamp="69388947824636"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+    <build
+        timestamp="70773159294287"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="70986880896103" />
 
 </instant-run>

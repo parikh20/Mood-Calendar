@@ -38,6 +38,8 @@ import com.ibm.watson.developer_cloud.tone_analyzer.v3.model.ToneAnalysis;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Calendar;
+import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Locale;
@@ -53,6 +55,7 @@ public class MainActivity extends AppCompatActivity implements EasyPermissions.P
     // Input speech
     private String mProcessedSpeech;
     private ToneAnalysis mTone;
+    List<Event> mItems;
 
 
     static final int REQUEST_ACCOUNT_PICKER = 1000;
@@ -386,13 +389,22 @@ public class MainActivity extends AppCompatActivity implements EasyPermissions.P
             // List the next 10 events from the primary calendar.
             DateTime now = new DateTime(System.currentTimeMillis());
             List<String> eventStrings = new ArrayList<String>();
+
+            // Get events for only this day
+            Date currDate = new Date();
+            currDate.setTime(currDate.getTime() - (currDate.getMinutes() + 60 * currDate.getHours())
+                    * 1000);
+            Date currDateEnd = new Date(currDate.getTime());
+            currDateEnd.setTime(currDateEnd.getTime() + (60 * 24 * 1000));
+
             Events events = mService.events().list("primary")
-                    .setMaxResults(10)
-                    .setTimeMin(now)
+                    .setTimeMin(new DateTime(currDate))
+                    .setTimeMax(new DateTime(currDateEnd))
                     .setOrderBy("startTime")
                     .setSingleEvents(true)
                     .execute();
             List<Event> items = events.getItems();
+            mItems = items;
 
             for (Event event : items) {
                 DateTime start = event.getStart().getDateTime();
@@ -403,6 +415,7 @@ public class MainActivity extends AppCompatActivity implements EasyPermissions.P
                 }
                 eventStrings.add(
                         String.format("%s (%s)", event.getSummary(), start));
+
             }
             return eventStrings;
         }
@@ -420,8 +433,10 @@ public class MainActivity extends AppCompatActivity implements EasyPermissions.P
 
                 Toast.makeText(MainActivity.this, "No results returned.", Toast.LENGTH_LONG).show();
             } else {
+                // Successfully got events
                 output.add(0, "Data retrieved using the Google Calendar API:");
                 Toast.makeText(MainActivity.this, TextUtils.join("\n", output), Toast.LENGTH_LONG).show();
+
             }
         }
 
