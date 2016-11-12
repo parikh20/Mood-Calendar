@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:2:1-31:12
 	package
 		ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:3:5-53
 		INJECTED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml
@@ -21,19 +21,28 @@ uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:5:5-78
 	android:name
 		ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_CALENDAR
+ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:7:5-72
+	android:name
+		ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:7:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:8:5-73
+	android:name
+		ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:8:22-70
 application
-ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:6:5-19:19
-MERGED from [com.google.android.gms:play-services-auth:9.0.2] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\AndroidManifest.xml:20:5-32:19
-MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:19:5-23:19
-MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:10:5-29:19
+MERGED from [com.google.android.gms:play-services-auth:8.3.0] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.3.0\AndroidManifest.xml:20:5-25:19
+MERGED from [com.google.android.gms:play-services-basement:8.3.0] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\AndroidManifest.xml:20:5-24:19
 MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:5:5-12:19
-MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
 MERGED from [pub.devrel:easypermissions:0.1.5] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\pub.devrel\easypermissions\0.1.5\AndroidManifest.xml:12:5-20
 MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:23:5-20
@@ -41,43 +50,53 @@ MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Krish
 MERGED from [com.android.support:design:24.2.1] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:cardview-v7:24.2.1] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:9:9-41
+		ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:13:9-41
 	android:supportsRtl
-		ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:14:9-35
 	android:allowBackup
-		ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:7:9-35
+		ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:11:9-35
 	android:icon
-		ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:8:9-43
+		ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:12:9-43
 	android:theme
-		ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:15:9-40
 activity#moodcalendar.parikh20.com.moodcalendar.MainActivity
-ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:12:9-18:20
+ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:16:9-22:20
 	android:name
-		ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:16:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:20:27-74
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:24:9-26:69
+MERGED from [com.google.android.gms:play-services-basement:8.3.0] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:26:13-66
+	android:name
+		ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:25:13-58
+meta-data#google-signin-client_id
+ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:27:9-28:143
+	android:value
+		ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:28:52-140
+	android:name
+		ADDED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml:28:13-51
 uses-sdk
 INJECTED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.google.android.gms:play-services-auth:9.0.2] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-auth-base:9.0.2] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.2\AndroidManifest.xml:5:5-43
-MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:8.3.0] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.3.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:8.3.0] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.3.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.3.0] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\AndroidManifest.xml:18:5-42
 MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:21:5-23:60
-MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
 MERGED from [pub.devrel:easypermissions:0.1.5] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\pub.devrel\easypermissions\0.1.5\AndroidManifest.xml:8:5-10:41
 MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:21:5-43
@@ -94,44 +113,12 @@ MERGED from [com.android.support:cardview-v7:24.2.1] C:\Users\Krishnak97\Desktop
 		INJECTED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Krishnak97\Desktop\Mood-Calendar\app\src\main\AndroidManifest.xml
 activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
-ADDED from [com.google.android.gms:play-services-auth:9.0.2] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\AndroidManifest.xml:21:9-24:46
+ADDED from [com.google.android.gms:play-services-auth:8.3.0] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.3.0\AndroidManifest.xml:21:9-24:46
 	android:excludeFromRecents
-		ADDED from [com.google.android.gms:play-services-auth:9.0.2] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\AndroidManifest.xml:23:19-52
+		ADDED from [com.google.android.gms:play-services-auth:8.3.0] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.3.0\AndroidManifest.xml:23:19-52
 	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:9.0.2] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\AndroidManifest.xml:24:19-43
+		ADDED from [com.google.android.gms:play-services-auth:8.3.0] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.3.0\AndroidManifest.xml:24:19-43
 	android:theme
-		ADDED from [com.google.android.gms:play-services-auth:9.0.2] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\AndroidManifest.xml:22:19-78
+		ADDED from [com.google.android.gms:play-services-auth:8.3.0] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.3.0\AndroidManifest.xml:22:19-78
 	android:name
-		ADDED from [com.google.android.gms:play-services-auth:9.0.2] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\AndroidManifest.xml:21:19-68
-service#com.google.android.gms.auth.api.signin.RevocationBoundService
-ADDED from [com.google.android.gms:play-services-auth:9.0.2] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\AndroidManifest.xml:28:9-31:110
-	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:9.0.2] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\AndroidManifest.xml:30:13-36
-	android:permission
-		ADDED from [com.google.android.gms:play-services-auth:9.0.2] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\AndroidManifest.xml:31:13-107
-	android:name
-		ADDED from [com.google.android.gms:play-services-auth:9.0.2] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\AndroidManifest.xml:29:13-58
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:20:9-22:45
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:22:19-43
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:21:19-78
-	android:name
-		ADDED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:20:19-85
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
-	android:value
-		ADDED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:23:13-66
-	android:name
-		ADDED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:22:13-58
-provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:7:9-11:39
-	android:authorities
-		ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:8:13-72
-	android:exported
-		ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:10:13-37
-	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:11:13-36
-	android:name
-		ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:9:13-58
+		ADDED from [com.google.android.gms:play-services-auth:8.3.0] C:\Users\Krishnak97\Desktop\Mood-Calendar\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.3.0\AndroidManifest.xml:21:19-72

@@ -3,6 +3,13 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 24
     buildToolsVersion "24.0.0"
+
+    signingConfigs {
+        debug {
+            storeFile file("external/debug.keystore")
+        }
+    }
+
     defaultConfig {
         applicationId "moodcalendar.parikh20.com.moodcalendar"
         minSdkVersion 17
@@ -11,6 +18,7 @@ android {
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
+
     buildTypes {
         release {
             minifyEnabled false
@@ -22,7 +30,7 @@ android {
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     compile 'com.android.support:appcompat-v7:23.4.0'
-    compile 'com.google.android.gms:play-services-auth:9.0.2'
+    compile 'com.google.android.gms:play-services-auth:8.3.0'
     compile 'pub.devrel:easypermissions:0.1.5'
     compile('com.google.api-client:google-api-client-android:1.22.0') {
         exclude group: 'org.apache.httpcomponents'

@@ -1,91 +1,51 @@
 [
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_event.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_event.png"
-    },
-    {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_colorpicker_holo_light.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_colorpicker_holo_light.png"
-    },
-    {
-        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_done_holo_light.png",
-        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_done_holo_light.png"
-    },
-    {
-        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_day_view.png",
-        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_day_view.png"
-    },
-    {
         "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_settings.png",
         "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_settings.png"
     },
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_select_visible_calendars.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_select_visible_calendars.png"
-    },
-    {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_day_view.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_day_view.png"
-    },
-    {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_agenda_view.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_agenda_view.png"
-    },
-    {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_trash.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_trash.png"
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
     },
     {
         "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_ab_back.png",
         "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_ab_back.png"
     },
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_cancel_holo_light.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_cancel_holo_light.png"
-    },
-    {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_compose.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_compose.png"
-    },
-    {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_settings.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_settings.png"
-    },
-    {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_refresh.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_refresh.png"
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_trash.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_trash.png"
     },
     {
         "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_refresh.png",
         "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_refresh.png"
     },
     {
-        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_trash.png",
-        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_trash.png"
-    },
-    {
-        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_cancel_holo_light.png",
-        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_cancel_holo_light.png"
-    },
-    {
         "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_agenda_view.png",
         "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_agenda_view.png"
     },
     {
-        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_event.png",
-        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_event.png"
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_disabled.9.png"
     },
     {
-        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_week_view.png",
-        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_week_view.png"
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_compose_dialog.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_compose_dialog.png"
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_week_view.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_week_view.png"
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_pressed.9.png"
     },
     {
         "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_trash_dialog.png",
@@ -96,8 +56,16 @@
         "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_compose.png"
     },
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_search.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_search.png"
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
     },
     {
         "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_colorpicker.png",
@@ -108,47 +76,135 @@
         "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_search.png"
     },
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_ab_back.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_ab_back.png"
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_normal.9.png"
     },
     {
         "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_select_visible_calendars.png",
         "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_select_visible_calendars.png"
     },
     {
-        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_month_view.png",
-        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_month_view.png"
-    },
-    {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_navigator.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_navigator.png"
-    },
-    {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_colorpicker.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_colorpicker.png"
-    },
-    {
         "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_navigator.png",
         "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_navigator.png"
     },
     {
-        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_compose_dialog.png",
-        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_compose_dialog.png"
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_done_holo_light.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_done_holo_light.png"
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\drawable-xxhdpi\\common_full_open_on_phone.png"
     },
     {
         "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_colorpicker_holo_light.png",
         "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_colorpicker_holo_light.png"
     },
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_month_view.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_month_view.png"
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_disabled.9.png"
     },
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_trash_dialog.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_trash_dialog.png"
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_done_holo_light.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_done_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_day_view.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_day_view.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_cancel_holo_light.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_cancel_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_event.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_event.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_week_view.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_week_view.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_month_view.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_month_view.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_compose_dialog.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_compose_dialog.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_disabled.9.png"
     }
 ]
