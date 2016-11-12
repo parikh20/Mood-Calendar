@@ -1,111 +1,119 @@
 [
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_today_holo_light.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_today_holo_light.png"
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\widget_show.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\widget_show.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_unselected_holo_light.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_unselected_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_history_holo_light.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_history_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_expand_large_holo_light.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_expand_large_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_multi_left_secondary_holo.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\list_multi_left_secondary_holo.9.png"
     },
     {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_unselected_underselect_holo_light.9.png",
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_unselected_underselect_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_secondary_holo.9.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\list_secondary_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_bottom_select_underunselected_pressed_holo_light.9.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_bottom_select_underunselected_pressed_holo_light.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_trash.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_trash.png"
-    },
-    {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_bottom_unselected_pressed_holo_light.9.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_bottom_unselected_pressed_holo_light.9.png"
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_today_holo_light.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_today_holo_light.png"
     },
     {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_colorpicker_dialog.png",
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_colorpicker_dialog.png"
     },
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_bottom_unselected_holo_light.9.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_bottom_unselected_holo_light.9.png"
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_week_view.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_week_view.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_bottom_unselected_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_bottom_unselected_pressed_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_alarm_white.png",
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_alarm_white.png"
     },
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\switch_thumb_activated_holo_light.9.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_activated_holo_light.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_pressed_holo.9.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\list_pressed_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_bottom_select_underselect_pressed_holo_light.9.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_bottom_select_underselect_pressed_holo_light.9.png"
-    },
-    {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_multi_left_focused_holo.9.png",
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\list_multi_left_focused_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_recurrence_bubble_disabled.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_recurrence_bubble_disabled.png"
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_multi_left_focused_holo.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\list_multi_left_focused_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_expand_large_holo_light.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_expand_large_holo_light.png"
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_compose_dialog.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_compose_dialog.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_contact_picture.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_contact_picture.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\today_blue_week_holo_light.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\today_blue_week_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_alarm_white.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_alarm_white.png"
     },
     {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_event_cal_widget_holo.9.png",
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\bg_event_cal_widget_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\switch_thumb_holo_light_v2.9.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_holo_light_v2.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_multi_left_primary_holo.9.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\list_multi_left_primary_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_history_holo_light.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_history_holo_light.png"
-    },
-    {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\widget_show.png",
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\widget_show.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_multi_left_activated_holo.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\list_multi_left_activated_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_recurrence_bubble_outline.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_recurrence_bubble_outline.png"
     },
     {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_unselected_underselect_pressed_holo_light.9.png",
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_unselected_underselect_pressed_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calendar_widget_preview.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\calendar_widget_preview.png"
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_bottom_unselected_underselect_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_bottom_unselected_underselect_pressed_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_repeat_dark.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_repeat_dark.png"
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_search.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_search.png"
     },
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_contact_picture.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_contact_picture.png"
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_bottom_unselected_underselect_holo_light.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_bottom_unselected_underselect_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\toggle_underline_activated.9.png",
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\toggle_underline_activated.9.png"
     },
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\snooze.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\snooze.png"
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_contact_picture.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_contact_picture.png"
     },
     {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_multi_left_activated_holo.9.png",
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\list_multi_left_activated_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\switch_thumb_activated_holo_light.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_activated_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_day_view.png",
@@ -116,88 +124,52 @@
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_bottom_unselected_underselect_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_select_underselect_holo_light.9.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_select_underselect_holo_light.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_repeat_white.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_repeat_white.png"
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_day_view.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_day_view.png"
     },
     {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_today_no_date_holo_light_disabled.png",
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_today_no_date_holo_light_disabled.png"
     },
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_call.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_call.png"
-    },
-    {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_select_underselect_pressed_holo_light.9.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_select_underselect_pressed_holo_light.9.png"
-    },
-    {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cal_widget_date_bg.9.png",
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\cal_widget_date_bg.9.png"
     },
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_compose.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_compose.png"
-    },
-    {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\toggle_underline_normal.9.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\toggle_underline_normal.9.png"
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_select_underunselected_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_select_underunselected_pressed_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\dayline_minical_holo_light.9.png",
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\dayline_minical_holo_light.9.png"
     },
     {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_month_view.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_month_view.png"
+    },
+    {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_multi_left_secondary_holo.9.png",
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\list_multi_left_secondary_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_month_view.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_month_view.png"
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_focused_holo.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\list_focused_holo.9.png"
     },
     {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_settings.png",
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_settings.png"
     },
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\today_blue_week_holo_light.9.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\today_blue_week_holo_light.9.png"
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_settings.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_settings.png"
     },
     {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_done_holo_light.png",
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_done_holo_light.png"
     },
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_agenda_view.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_agenda_view.png"
-    },
-    {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_bottom_unselected_underselect_pressed_holo_light.9.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_bottom_unselected_underselect_pressed_holo_light.9.png"
-    },
-    {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_search.png",
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_search.png"
-    },
-    {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\frame_event_color_cal_widget_holo.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\frame_event_color_cal_widget_holo.png"
-    },
-    {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_compose_dialog.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_compose_dialog.png"
-    },
-    {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_remove_field_holo_light.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_remove_field_holo_light.png"
-    },
-    {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_select_underunselected_holo_light.9.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_select_underunselected_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_collapse_large_holo_light.png",
@@ -208,12 +180,12 @@
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_trash_dialog.png"
     },
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_alarm_dark.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_alarm_dark.png"
-    },
-    {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_bottom_select_underselect_holo_light.9.png",
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_bottom_select_underselect_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_cancel_holo_light.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_cancel_holo_light.png"
     },
     {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_unselected_holo_light.9.png",
@@ -224,84 +196,88 @@
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_map.png"
     },
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_colorpicker.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_colorpicker.png"
-    },
-    {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_ab_back.png",
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_ab_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_primary_holo.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\list_primary_holo.9.png"
     },
     {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_expand_small_holo_light.png",
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_expand_small_holo_light.png"
     },
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_today_no_date_holo_light.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_today_no_date_holo_light.png"
-    },
-    {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_colorpicker_holo_light.png",
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_colorpicker_holo_light.png"
     },
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_recurrence_bubble_outline.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_recurrence_bubble_outline.png"
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\stat_notify_calendar_multiple.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\stat_notify_calendar_multiple.png"
     },
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_add_field_holo_light.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_add_field_holo_light.png"
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_today_no_date_holo_light.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_today_no_date_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_colorpicker_holo_light.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_colorpicker_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_refresh.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_refresh.png"
     },
     {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\timeline_indicator_holo_light.9.png",
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\timeline_indicator_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\switch_thumb_pressed_holo_light.9.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_pressed_holo_light.9.png"
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_recurrence_bubble_fill.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_recurrence_bubble_fill.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_collapse_small_holo_light.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_collapse_small_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_navigator.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_navigator.png"
     },
     {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_refresh.png",
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_refresh.png"
     },
     {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_collapse_large_holo_light.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_collapse_large_holo_light.png"
+    },
+    {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_collapse_small_holo_light.png",
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_collapse_small_holo_light.png"
-    },
-    {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\timeline_indicator_activated_holo_light.9.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\timeline_indicator_activated_holo_light.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_unselected_pressed_holo_light.9.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_unselected_pressed_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_navigator.png",
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_navigator.png"
     },
     {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_agenda_view.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_agenda_view.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_secondary_holo.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\list_secondary_holo.9.png"
+    },
+    {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\stat_notify_calendar_multiple.png",
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\stat_notify_calendar_multiple.png"
     },
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_focused_holo.9.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\list_focused_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_alarm_holo_dark.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_alarm_holo_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_bottom_select_underunselected_holo_light.9.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_bottom_select_underunselected_holo_light.9.png"
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_bottom_unselected_holo_light.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_bottom_unselected_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_select_underunselected_pressed_holo_light.9.png",
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_select_underunselected_pressed_holo_light.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_recurrence_bubble_fill.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_recurrence_bubble_fill.png"
     },
     {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_add_event.png",
@@ -316,20 +292,32 @@
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_email_holo_dark.png"
     },
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\panel_month_event_holo_light.9.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\panel_month_event_holo_light.9.png"
-    },
-    {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_select_visible_calendars.png",
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_select_visible_calendars.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_month_view.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_month_view.png"
     },
     {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_email_holo_light.png",
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_email_holo_light.png"
     },
     {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_unselected_underselect_holo_light.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_unselected_underselect_holo_light.9.png"
+    },
+    {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\minical_bg_shadow_holo_light.9.png",
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\minical_bg_shadow_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_multi_left_pressed_holo.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\list_multi_left_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\switch_thumb_holo_light_v2.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_holo_light_v2.9.png"
     },
     {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_week_view.png",
@@ -340,15 +328,379 @@
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_disabled_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_cancel_holo_light.png",
-        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_cancel_holo_light.png"
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\minical_bg_shadow_holo_light.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\minical_bg_shadow_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_primary_holo.9.png",
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\list_primary_holo.9.png"
     },
     {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_remove_field_holo_light.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_remove_field_holo_light.png"
+    },
+    {
         "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_recurrence_bubble_outline_disabled.png",
         "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_recurrence_bubble_outline_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_ab_back.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_ab_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calendar_widget_preview.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\calendar_widget_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_bottom_select_underunselected_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_bottom_select_underunselected_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_secondary_holo.9.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\list_secondary_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_colorpicker_dialog.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_colorpicker_dialog.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_bottom_unselected_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_bottom_unselected_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_trash.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_trash.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_bottom_unselected_holo_light.9.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_bottom_unselected_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\switch_thumb_activated_holo_light.9.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_activated_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_pressed_holo.9.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\list_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_bottom_select_underselect_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_bottom_select_underselect_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\switch_thumb_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_trash_dialog.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_trash_dialog.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\toggle_underline_activated.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\toggle_underline_activated.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_recurrence_bubble_disabled.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_recurrence_bubble_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\timeline_indicator_activated_holo_light.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\timeline_indicator_activated_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_expand_large_holo_light.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_expand_large_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_call.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_call.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_alarm_dark.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_alarm_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\switch_thumb_holo_light_v2.9.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_holo_light_v2.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_today_no_date_holo_light_disabled.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_today_no_date_holo_light_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_multi_left_primary_holo.9.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\list_multi_left_primary_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_history_holo_light.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_history_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_repeat_dark.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_repeat_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\frame_event_color_cal_widget_holo.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\frame_event_color_cal_widget_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_bottom_select_underselect_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_bottom_select_underselect_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calendar_widget_preview.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\calendar_widget_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_multi_left_primary_holo.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\list_multi_left_primary_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\snooze.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\snooze.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_repeat_dark.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_repeat_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_select_underselect_holo_light.9.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_select_underselect_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_repeat_white.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_repeat_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_select_underselect_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_select_underselect_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\dayline_minical_holo_light.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\dayline_minical_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_trash.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_trash.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_unselected_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_unselected_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_event_cal_widget_holo.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\bg_event_cal_widget_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_call.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_call.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_select_underselect_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_select_underselect_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_today_holo_light.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_today_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_compose.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_compose.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\toggle_underline_normal.9.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\toggle_underline_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_email_holo_light.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_email_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_recurrence_bubble_outline_disabled.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_recurrence_bubble_outline_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_select_underunselected_holo_light.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_select_underunselected_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\today_blue_week_holo_light.9.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\today_blue_week_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_agenda_view.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_agenda_view.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_bottom_unselected_underselect_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_bottom_unselected_underselect_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_add_field_holo_light.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_add_field_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\frame_event_color_cal_widget_holo.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\frame_event_color_cal_widget_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_compose_dialog.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_compose_dialog.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\switch_thumb_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_remove_field_holo_light.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_remove_field_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_select_underunselected_holo_light.9.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_select_underunselected_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_bottom_select_underselect_holo_light.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_bottom_select_underselect_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_alarm_dark.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_alarm_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_colorpicker.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_colorpicker.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_alarm_holo_dark.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_alarm_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_today_no_date_holo_light.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_today_no_date_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_recurrence_bubble_outline.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_recurrence_bubble_outline.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_repeat_white.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_repeat_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_recurrence_bubble_disabled.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_recurrence_bubble_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_add_field_holo_light.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_add_field_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_done_holo_light.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_done_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\snooze.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\snooze.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\switch_thumb_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_bottom_select_underunselected_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_bottom_select_underunselected_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\timeline_indicator_activated_holo_light.9.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\timeline_indicator_activated_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_unselected_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_unselected_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\toggle_underline_normal.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\toggle_underline_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_bottom_select_underunselected_holo_light.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_bottom_select_underunselected_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_focused_holo.9.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_select_underselect_holo_light.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_select_underselect_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_unselected_underselect_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_unselected_underselect_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calname_bottom_select_underunselected_holo_light.9.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\calname_bottom_select_underunselected_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_alarm_holo_dark.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_alarm_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_map.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_map.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_expand_small_holo_light.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_expand_small_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_add_event.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_add_event.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_pressed_holo.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\list_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\timeline_indicator_holo_light.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\timeline_indicator_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_select_visible_calendars.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_select_visible_calendars.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_recurrence_bubble_fill.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_recurrence_bubble_fill.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cal_widget_date_bg.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\cal_widget_date_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_colorpicker.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_colorpicker.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_email_holo_dark.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_email_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\panel_month_event_holo_light.9.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\panel_month_event_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_compose.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_compose.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\panel_month_event_holo_light.9.png",
+        "source": "C:\\Users\\Krishnak97\\Desktop\\Mood-Calendar\\app\\src\\main\\res\\drawable-xhdpi\\panel_month_event_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_cancel_holo_light.png",
+        "source": "C:\\Users\\Jaineek Parikh\\Downloads\\MoodCalendar\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_cancel_holo_light.png"
     }
 ]
